@@ -1,0 +1,13 @@
+# Ignorar entorno virtual de Python
+venv/
+
+# Ignorar datasets locales
+datasets/
+*.csv
+
+# Ignorar archivos de LibreOffice
+*.odt
+.~lock.*
+
+# Ignorar archivos temporales
+*.lock
